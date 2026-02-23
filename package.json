@@ -3,7 +3,6 @@
     "main": "www/index.html",
     "js-flags": "--expose-gc",
     "window": {
-        "start": "index.html"
         "title": "",
         "toolbar": false,
         "width": 816,
